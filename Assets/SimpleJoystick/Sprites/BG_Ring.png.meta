@@ -1,7 +1,5 @@
 fileFormatVersion: 2
-guid: 6fa82abd2c17d7c41b0519c3bb22c431
-timeCreated: 1459497379
-licenseType: Free
+guid: 638fc845a025ad14380085a7c6b6c5e2
 TextureImporter:
   fileIDToRecycleName:
     21300000: Joystick
@@ -18,14 +16,11 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: 0.25
+    heightScale: .25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
-  cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 1024
@@ -36,14 +31,12 @@ TextureImporter:
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
@@ -51,8 +44,5 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites: []
-    outline: []
   spritePackingTag: 
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 

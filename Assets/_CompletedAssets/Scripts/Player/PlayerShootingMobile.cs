@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnitySampleAssets.CrossPlatformInput;
+using GeekGame.Input;
 
 namespace CompleteProject
 {
