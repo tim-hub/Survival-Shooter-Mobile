@@ -2,7 +2,7 @@
 
 A simple survival shooter mobile demo and with the simple joystick.
 
-![survival shooter mobile screenshot](https://lh3.googleusercontent.com/PV65a-M8vV4j7EkjFuUTVQRR2ZjH3jGkIUQ149EfXAFUCWyEZqO4d2Wmjt_dKbKGjVA=h900-rw)
+![survival shooter mobile screenshot](https://github.com/tim-hub/Simple_Joystick_Unity/raw/master/ss2.png)
 
 - https://youtu.be/e1kXTFIHmug
 - [google play](https://play.google.com/store/apps/details?id=uno.bai.geekgame.survivalshootermobile)
